@@ -1,0 +1,22 @@
+2025-02-17 17:18:34,756 - INFO - Starting the CoinDesk Scraper application...
+2025-02-17 17:18:34,772 - INFO - Fetching article URLs...
+2025-02-17 17:18:35,853 - INFO - Found 5 article URLs.
+2025-02-17 17:18:37,977 - INFO - Fetched 5 news articles.
+2025-02-17 17:18:37,988 - INFO - Article from https://www.coindesk.com/markets/2025/02/17/ftx-payout-trump-musk-interview-fomc-minutes-may-roil-crypto-markets-this-week saved successfully.
+2025-02-17 17:18:37,997 - INFO - Article from https://www.coindesk.com/markets/2025/02/17/hackers-impersonate-saudi-crown-prince-to-promote-fake-official-memecoins saved successfully.
+2025-02-17 17:18:38,005 - INFO - Article from https://www.coindesk.com/markets/2025/02/17/solana-xrp-lead-crypto-drop-with-u-s-closed-for-presidents-day saved successfully.
+2025-02-17 17:18:38,014 - INFO - Article from https://www.coindesk.com/business/2025/02/17/brevan-howard-digital-deploys-usd20m-on-ethereum-based-kinto-in-institutional-defi-push saved successfully.
+2025-02-17 17:18:38,026 - INFO - Article from https://www.coindesk.com/business/2025/02/17/metaplanet-spends-another-4b-yen-buying-bitcoin-lifting-holdings-above-2k-btc saved successfully.
+2025-02-17 17:18:38,027 - INFO - Total 5 articles saved.
+2025-02-17 17:20:55,157 - INFO - Exiting application...
+2025-02-20 19:58:56,578 - INFO - Starting the CoinDesk Scraper application...
+2025-02-20 19:58:56,587 - INFO - Fetching article URLs...
+2025-02-20 19:58:57,586 - INFO - Found 6 article URLs.
+2025-02-20 19:59:00,254 - INFO - Fetched 6 news articles.
+2025-02-20 19:59:00,265 - INFO - Article from https://www.coindesk.com/markets/2025/02/20/bitcoin-boosted-just-a-bit-by-dovish-comments-from-fed-s-bostic saved successfully.
+2025-02-20 19:59:00,275 - INFO - Article from https://www.coindesk.com/markets/2025/02/20/strategy-set-for-another-usd2b-in-bitcoin-buying-power-as-it-prices-latest-capital-raise saved successfully.
+2025-02-20 19:59:00,289 - INFO - Article from https://www.coindesk.com/markets/2025/02/20/u-s-stablecoin-adoption-is-being-hindered-by-a-lack-of-regulation-s-and-p-says saved successfully.
+2025-02-20 19:59:00,303 - INFO - Article from https://www.coindesk.com/business/2025/02/20/figure-markets-launches-sec-registered-yield-bearing-stablecoin saved successfully.
+2025-02-20 19:59:00,317 - INFO - Article from https://www.coindesk.com/business/2025/02/20/onramp-and-arch-launch-bitcoin-backed-lending-service saved successfully.
+2025-02-20 19:59:00,333 - INFO - Article from https://www.coindesk.com/business/2025/02/20/base-dex-synfutures-rolls-out-ai-trading-agent saved successfully.
+2025-02-20 19:59:00,334 - INFO - Total 11 articles saved.

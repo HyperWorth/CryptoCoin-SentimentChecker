@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pillow
+pystray
+ollama
+sqlite3  # Python ile birlikte gelir, ancak hata almamak için ekledim
+logging  # Python'un standart kütüphanesi, eklemene gerek yok

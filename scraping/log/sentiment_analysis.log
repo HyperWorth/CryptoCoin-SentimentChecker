@@ -1,0 +1,30 @@
+2025-02-17 17:12:48,995 - INFO - The entered date is: 2025-02-01 00:00:00
+2025-02-17 17:12:48,996 - INFO - Fetching articles from 2025-02-01 00:00:00 to 2025/02/17
+2025-02-17 17:12:48,997 - INFO - Found 4 articles.
+2025-02-17 17:12:48,997 - INFO - Performing sentiment analysis with deepseek-r1:1.5b...
+2025-02-17 17:12:48,997 - INFO - Analyzing sentiment for coin: cro
+2025-02-17 17:13:01,761 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-17 17:13:01,762 - INFO - Sentiment analysis completed for article: https://www.coindesk.com/markets/2025/02/17/ftx-payout-trump-musk-interview-fomc-minutes-may-roil-crypto-markets-this-week
+2025-02-17 17:13:07,012 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-17 17:13:07,012 - INFO - Sentiment analysis completed for article: https://www.coindesk.com/markets/2025/02/17/hackers-impersonate-saudi-crown-prince-to-promote-fake-official-memecoins
+2025-02-17 17:13:14,256 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-17 17:13:14,257 - INFO - Sentiment analysis completed for article: https://www.coindesk.com/markets/2025/02/17/solana-xrp-lead-crypto-drop-with-u-s-closed-for-presidents-day
+2025-02-17 17:13:21,871 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-17 17:13:21,872 - INFO - Sentiment analysis completed for article: https://www.coindesk.com/business/2025/02/17/metaplanet-spends-another-4b-yen-buying-bitcoin-lifting-holdings-above-2k-btc
+2025-02-17 17:13:21,873 - INFO - Results have been saved to sentiment_analysis_results.json
+2025-02-17 17:19:55,596 - INFO - The entered date is: 2000-05-19 00:00:00
+2025-02-17 17:19:55,598 - INFO - Fetching articles from 2000-05-19 00:00:00 to 2025/02/17
+2025-02-17 17:19:55,599 - INFO - Found 5 articles.
+2025-02-17 17:19:55,599 - INFO - Performing sentiment analysis with deepseek-r1:1.5b...
+2025-02-17 17:19:55,600 - INFO - Analyzing sentiment for coin: CRO
+2025-02-17 17:20:07,786 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-17 17:20:07,788 - INFO - Sentiment analysis completed for article: https://www.coindesk.com/markets/2025/02/17/ftx-payout-trump-musk-interview-fomc-minutes-may-roil-crypto-markets-this-week
+2025-02-17 17:20:13,863 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-17 17:20:13,863 - INFO - Sentiment analysis completed for article: https://www.coindesk.com/markets/2025/02/17/hackers-impersonate-saudi-crown-prince-to-promote-fake-official-memecoins
+2025-02-17 17:20:19,884 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-17 17:20:19,886 - INFO - Sentiment analysis completed for article: https://www.coindesk.com/markets/2025/02/17/solana-xrp-lead-crypto-drop-with-u-s-closed-for-presidents-day
+2025-02-17 17:20:27,903 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-17 17:20:27,903 - INFO - Sentiment analysis completed for article: https://www.coindesk.com/business/2025/02/17/brevan-howard-digital-deploys-usd20m-on-ethereum-based-kinto-in-institutional-defi-push
+2025-02-17 17:20:33,977 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-17 17:20:33,978 - INFO - Sentiment analysis completed for article: https://www.coindesk.com/business/2025/02/17/metaplanet-spends-another-4b-yen-buying-bitcoin-lifting-holdings-above-2k-btc
+2025-02-17 17:20:33,979 - INFO - Results have been saved to Json\sentiment_analysis_results.json
