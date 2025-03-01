@@ -45,8 +45,8 @@ pip install -r requirements.txt
 1. **Projeyi klonlayın:**
 
    ```bash
-   git clone https://github.com/hyperworth/crypto-news-analyzer.git
-   cd crypto-news-analyzer
+   git clone https://github.com/HyperWorth/CryptoCoin-SentimentChecker.git
+   cd CryptoCoin-SentimentChecker
    ```
 
 2. **Bağımlılıkları yükleyin:**
@@ -121,5 +121,5 @@ Projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin
 
 Bu proje **MIT Lisansı** altında dağıtılmaktadır.
 
-**Hazırlayan:** [Muhammed Ali Uğur]
+**Hazırlayan:** [HyperWorth]
 
